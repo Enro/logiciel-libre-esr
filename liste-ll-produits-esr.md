@@ -45,7 +45,7 @@
 | <https://github.com/Inist-CNRS/node-sphinxapi>                   | <https://www.inist.fr>                                                              |
 | <https://github.com/ezpaarse-project/ezpaarse>                   | <https://www.inist.fr>                                                              |
 | <http://www.ofeli.org>                                           | <http://math.univ-bpclermont.fr>                                                    |
-| <http://projets.pacea.u-bordeaux.fr/TIVMI/index.php?page=kesako> | <http://projets.pacea.u-bordeaux.fr/TIVMI>                                          |
+| <http://projets.pacea.u-bordeaux.fr/TIVMI/index.php?page=kesako> | <http://pacea.u-bordeaux.fr/>                                          |
 | <http://tulip.labri.fr/TulipDrupal>                              | <http://tulip.labri.fr>                                                             |
 | <https://www.labri.fr/perso/lsimon/glucose>                      | <https://www.labri.fr>                                                              |
 |                                                                  | <https://github.com/CNRS-DSI-Dev>                                                   |
@@ -80,3 +80,7 @@
 | <http://noise-planet.org/noisemodelling.html>                    | <https://www.labsticc.fr>, <http://www.umrae.fr>                                    |
 | <https://framagit.org/synalp/olki/olki>                          | <https://synalp.loria.fr>                                                           |
 | <https://github.com/linbox-team>                                 | <http://univ-grenoble-alpes.fr>, <https://www.umontpellier.fr>                      |
+| <https://jbotsim.io/>                                             | <https://www.labri.fr>      
+                  |
+| <https://www.labri.fr/perso/pelegrin/scotch/scotch_fr.html>       | <https://www.labri.fr>      
+                  |
